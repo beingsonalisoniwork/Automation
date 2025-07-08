@@ -1,10 +1,10 @@
-# 🚀 Automation Framework (Selenium + Rest Assured + TestNG)
+# Automation Framework (Selenium + Rest Assured + TestNG)
 
 A unified automation project using **Java**, **TestNG**, **Selenium 4**, **Rest Assured**, and **Maven** for both UI and API testing.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Java 17+
 - Maven
@@ -14,7 +14,7 @@ A unified automation project using **Java**, **TestNG**, **Selenium 4**, **Rest 
 
 ---
 
-## 🔧 Maven Commands
+## Maven Commands
 
 ```bash
 # Clean and compile the project
