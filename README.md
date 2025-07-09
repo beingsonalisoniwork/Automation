@@ -28,3 +28,9 @@ mvn test -DsuiteXmlFile=testng.xml
 
 # Run and install dependencies
 mvn clean install
+
+# run only one suite
+mvn clean test -DsuiteXmlFile=ui-testng.xml
+
+# run only one test file
+mvn clean test -Dtest=ui.DuckDuckGoSearchTest

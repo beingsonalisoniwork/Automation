@@ -1,10 +1,8 @@
-package base;
+package ui;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-
-import utils.DriverManager;
 
 public class BaseUiTest {
     protected WebDriver driver;
